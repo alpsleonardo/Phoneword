@@ -1,0 +1,16 @@
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/Xamarin.Forms.Core.dll
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/Phoneword.iOS.exe
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/System.ServiceModel.Internals.dll
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/System.dll
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/mscorlib.dll
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/System.Core.dll
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/System.Net.Http.dll
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/System.Runtime.Serialization.dll
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/Plugin.Media.dll
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/Phoneword.dll
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/Xamarin.Forms.Platform.dll
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/System.Xml.dll
+/Users/leonardoalps/Projects/Phoneword/iOS/obj/iPhone/Debug/device-builds/iphone9.3-10.3.1/mtouch-cache/Link/Plugin.Media.Abstractions.dll
